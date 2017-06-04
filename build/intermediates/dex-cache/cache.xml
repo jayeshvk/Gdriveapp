@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_5b8a0cf4cf84d8791ea8cab1dad7a4156a279bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_4677f8c7a2838e57beb765d2813b4c925dab84ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_d8f06e510b0e293f94b5a5ce52b19a31dd038152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_49a16b0948152c37bd382699482f7473c118b536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_0fdde975379a90b73c75d8b3c4deb9ffcfee7270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jayesh\Development\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_b0d08d9e4d2a294116bde8fd7feb8412c9553f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_5dcf9a44556309328381e4dd28eb109bb0215ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_3492c2bcbc9e5f6fe6d06cc4186ce8f0aa4d67e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_50214fa31ea2880c6c9b4775214369f4a097c9ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_429526d92fc3fa0ad8ed6afe433727b2c4b74732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_bad9a3295108013197a7aa8cbc07f31100baf61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_6265878c4c0e4861117f4ad4eae05759b2b26e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_0b686bae4e9069c63604c5561e70cd6a0887319e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_23f9225fd74b78641b1221ec033bf84905fdc195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_063b98fc9aeea1ff8b18d1cfd84cbfae50c62c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_99773e799c05d1ff156c261dd77e375e2fac5529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_25c7eac9b3bbd3e907a78ce62bad10b1760a98be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_3b491aa630c505b9146180c1af8c350ce0a3dc78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_4d8091712465ed9178b1670d6bec3f507efb7561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_8ce1a282e816f83409d32dca05e17ae6f85c1baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_b485cba2d748a43314d4664b536cdc24f91ead71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_02c01614414c5c04ac97fd932d63285a013ae592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_db797f62b1a2804b5c26c69ad015221343d7985e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_e0f2539f33bb3a73aa59557e030885ff9f7d1ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_8f3ac1505964eb369cbb0e50d31784e897aaf973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_38a0b7b4606dcd743e88f36794d174efbf76467d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_37567010398f7a191b59c24b21060a51d4b68f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_2ac4a09542c086383b1868aa6af4bdfe54814fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_1c0b543698b653f05a29c3916b619b5ba932db75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_10ff3dc7da4dd3540c7d94387dc1b268e65369fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_1fc3220466bc12aad2abe645f0792a9e00064e6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_5a103c1209295932950d412e59a7ceaa4aa6bbd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_62b4185c73ef7c5c60256072cbb8ec9798676a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_a4e92eb62a5c2967906d439ba4eea5dbb6be6bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_e50a838392e84004776cb75ef9cb094b0d204c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_04cc9a2c444456f0807dc432d60771bdb23ef881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_6a2a2d3dc1cb0eb38ec8f1938af3d2258a54fbcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_ad80eda4251847c277160120209c196e25e6fcee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_855e50886db74e3087b4cab52725d9ebe4d41b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_be1a7e127e79258cde8411b37574f9f9b0600f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_b5604aafdd2212734658cc572b2777177f994e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_5302803c8da5a7d05158c444e2db697d5550b56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_8f801d3df84754f7831a635eaf156412ddcce1b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_1a521551d920e2af800c73e5a09446230074fb90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_494922b24377db7c6563c158df9cb939f33938f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_e07eaaf8557b3cf43cb808d1ede29c46a91f661b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_a68da21ef90f1cf616ffe28f4a9f5b674d004963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_0ba01fbb7d0bf74a232b135bcdf028ce26d82595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_6122c31fee0906d9f29ed0f9fd9a71486815a3ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_57780e772c572a378c2e922c9de670177260db32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_a766f97643af0d07b6481badd74dd52bb63e561d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_837d0f1b2d8bf8aa4dc00a4e34d6eff8fe83cdd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_6113d5bf28b4afea295b56602cdb1bc647fd1a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_8fc20747893d14a78603c559da52f9de21d34724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_3a17270c9c1d53469995cefd183b4f98099e42cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_a09cc4130d22b0fe670c2dba4496e093ff9c6036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop\Gdriveapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\develop\Gdriveapp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_7fcccb3f444e21557d882d226b285fa10ecd9409.jar" />
+    </item>
+
+</items>
